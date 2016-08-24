@@ -1,0 +1,19 @@
+{
+    "items": {
+        "title": "items",
+		"Gold": {
+                    "id": 1,
+                    "name": "Some gold",
+                    "quantity": 20.0,
+                    "price": 1.0,
+                    "tags": ["purse", "gold"]
+        },
+        "Meat": {
+                    "id": 1,
+                    "name": "Some meat",
+                    "quantity": 10.0,
+                    "price": 5.0,
+                    "tags": ["purse", "food"]
+        }
+    }
+}
